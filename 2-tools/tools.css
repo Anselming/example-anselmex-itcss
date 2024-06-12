@@ -1,0 +1,28 @@
+/* Funções e mixins convertidos para classes utilitárias */
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button {
+    border: none;
+    color: #fff;
+    padding: calc(var(--base-spacing) / 2) var(--base-spacing);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .button-primary {
+    background-color: var(--primary-color);
+  }
+  
+  .button-secondary {
+    background-color: var(--secondary-color);
+  }
+  

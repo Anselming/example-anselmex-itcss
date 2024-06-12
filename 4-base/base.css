@@ -1,0 +1,20 @@
+/* Estilos globais para elementos HTML */
+h1 {
+    font-size: 2em;
+    margin-bottom: var(--base-spacing);
+    color: var(--primary-color);
+  }
+  
+  p {
+    margin-bottom: calc(var(--base-spacing) / 2);
+  }
+  
+  a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

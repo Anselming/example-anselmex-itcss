@@ -1,0 +1,8 @@
+/* Importando todas as camadas */
+@import '1-settings/settings.css';
+@import '2-tools/tools.css';
+@import '3-generic/generic.css';
+@import '4-base/elements.css';
+@import '5-objects/objects.css';
+@import '6-components/components.css';
+@import '7-trumps/trumps.css';

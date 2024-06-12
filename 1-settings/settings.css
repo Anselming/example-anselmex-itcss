@@ -1,0 +1,9 @@
+/* Variáveis globais usando custom properties (CSS variables) */
+:root {
+    --primary-color: #ff6f61;
+    --secondary-color: #4caf50;
+    --background-color: #f4f4f4;
+    --font-stack: 'Helvetica, Arial, sans-serif';
+    --base-spacing: 16px;
+  }
+  
